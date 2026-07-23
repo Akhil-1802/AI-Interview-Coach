@@ -1,0 +1,47 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# LangChain / LangGraph checkpoints if you ever persist them to disk
+*.sqlite
+*.db
