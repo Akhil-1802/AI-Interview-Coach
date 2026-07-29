@@ -36,7 +36,7 @@ except ImportError:
 # PAGE CONFIG + STYLING
 # ─────────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="AI Interview Coach",
+    page_title="AI Interview",
     page_icon="🎯",
     layout="wide",
     initial_sidebar_state="expanded",
