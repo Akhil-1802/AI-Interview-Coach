@@ -8,7 +8,7 @@ WORKDIR /app
 COPY requirement.txt .
 
 # 2. Install dependencies (Cached unless requirements.txt changes)
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirement.txt
 
 COPY interview_agent.py .
 COPY PdfLoader.py .
