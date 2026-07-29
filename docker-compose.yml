@@ -3,5 +3,5 @@ services:
     build : ./
     ports :
       - 5000:8501
-    env_file: 
-      - ./.env
+    environment:
+      MISTRAL_API_KEY=LSJ2MNkmZ9R2NsEIXKYB5PJfs72JMfV6
