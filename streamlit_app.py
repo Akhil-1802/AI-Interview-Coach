@@ -314,7 +314,7 @@ with st.sidebar:
 st.markdown(
     """
 <div class="hero">
-    <h1>🎯 AI Interview Coach</h1>
+    <h1>🎯 AI Interview</h1>
     <p>A resume-aware, difficulty-adaptive mock interviewer powered by LangGraph. Paste your resume and the job
     description on the left, then answer questions as they come — difficulty adjusts to how you're doing, and you
     can end early for a report on whatever you've answered so far.</p>
