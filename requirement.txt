@@ -1,8 +1,0 @@
-python-multipart
-python-dotenv
-langchain
-langchain-community
-langchain-mistralai
-langgraph
-pypdf
-streamlit
