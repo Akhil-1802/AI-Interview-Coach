@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8000";
+const BASE = "https://ai-interview-coach-1rv1.onrender.com";
 
 export async function startInterview({ resumeText, resumePdf, jobDescription }) {
   const form = new FormData();
