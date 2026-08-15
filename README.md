@@ -4,6 +4,8 @@ An AI-powered mock technical interviewer that reads your resume and a job descri
 
 Built with **LangGraph** + **Mistral AI** on the backend and **React + Tailwind CSS** on the frontend, connected via a **FastAPI** REST API.
 
+🚀 **Live Demo** — [https://interview-aicoach.netlify.app](https://interview-aicoach.netlify.app)
+
 ---
 
 ## Features
